@@ -32,14 +32,14 @@ a paper-button {
 }
 
 paper-button.colorful {
-    color: #00BCD4;
+    color: #F44336;
 }
 paper-button.white {
     color: #fff;
 }
 
 paper-button[raised].colorful {
-    background: #00BCD4;
+    background: #F44336;
     color: #fff;
 }
 

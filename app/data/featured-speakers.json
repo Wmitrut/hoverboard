@@ -1,31 +1,21 @@
 [{
     "id": 1,
-    "name": "Said Tahsin Dane",
-    "company": "Startup Digest, Turkey",
-    "photoUrl": "../../images/people/said_tahsine_dane.jpg"
+    "name": "Marco Gomes",
+    "company": "A diferença entre o Nerd de hoje e dos anos 70.",
+    "photoUrl": "../../images/people/marcogomes.jpg"
 }, {
     "id": 2,
-    "name": "Mateusz Herych",
-    "company": "Base CRM, Poland",
-    "photoUrl": "../../images/people/mateus_herych.jpg"
+    "name": "David Jourdain",
+    "company": "Manipulação de Kernel Linux.",
+    "photoUrl": "../../images/people/david.png"
 }, {
     "id": 3,
-    "name": "Michał Tajchert",
-    "company": "12Hours.io, Poland",
-    "photoUrl": "../../images/people/michal_tajchert.jpg"
+    "name": "Tiago Aguiar",
+    "company": "Empreendedorismo, StartUp e gestão.",
+    "photoUrl": "../../images/people/aguiar.jpg"
 }, {
     "id": 4,
-    "name": "Yehor Lvivski",
-    "company": "Spatialkey, Ukraine",
-    "photoUrl": "../../images/people/yehor_lvivski.jpg"
-}, {
-    "id": 5,
-    "name": "Valentyn Shybanov",
-    "company": "Twinfield, Ukraine",
-    "photoUrl": "../../images/people/valentyn_shybanov.jpg"
-}, {
-    "id": 6,
-    "name": "Mandy Waite",
-    "company": "Google, UK",
-    "photoUrl": "../../images/people/mandy_waite.jpg"
+    "name": "Cristiano Machado",
+    "company": "Capital Social, inovação e negócios.",
+    "photoUrl": "../../images/people/cristiano.jpeg"
 }]

@@ -131,28 +131,19 @@
     }]
 }, {
     "id": 7,
-    "name": "Fabio Taffe",
-    "title": "Software Engineer/Country Manager",
-    "company": "Twinfield",
-    "country": "Ukraine",
-    "photoUrl": "../../images/people/taffe.jpg",
-    "bio": "Valentyn focuses on Polymer and Web Components. In previous roles helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and help developers to build great experiences.",
+    "name": "Cleiton Migliorini",
+    "title": "Sócio",
+    "company": "Agência NeXT",
+    "country": "Fco. Beltrão",
+    "photoUrl": "../../images/people/migliorini.JPG",
+    "bio": "",
     "tags": ["Web", "AngularJS"],
-    "badges": [{
-        "name": "Dia 15",
-        "description": "Cloud Google Developer Expert",
-        "link": "https://developers.google.com/experts/people"
-    },{
-        "name": "Dia 15",
-        "description": "Google Developers Group Kyiv",
-        "link": "https://developers.google.com/groups/chapter/110301321530950732281/"
-    }],
     "socials": [{
         "name": "Google+",
-        "link": "https://google.com/+ValentynShybanov"
+        "link": "https://plus.google.com/u/0/116128083992799372982"
     }, {
-        "name": "Website",
-        "link": "http://olostan.name/"
+        "name": "Facebook",
+        "link": "https://www.facebook.com/cleiton.migliorini"
     }]
 }, {
     "id": 8,
@@ -240,55 +231,47 @@
     }]
 }, {
     "id": 14,
-    "name": "Jana Moudrá",
+    "name": "Cristiano Machado",
     "title": "Co-Founder",
-    "company": "Juicymo",
-    "country": "Czech Republic",
+    "company": "AbraBoca",
+    "country": "Ponta Grossa",
     "photoUrl": "../../images/people/cristiano.jpeg",
-    "bio": "Dia 15 (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for Dia 15 Prague, where she arranges events for developers including public lectures, code labs and hackathons – covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. <br/><br/>Jana co-founded a company called Juicymo, where she works on juicy apps and products.",
-    "tags": ["Web", "Dart"],
-    "badges": [{
-        "name": "Dia 15",
-        "description": "Dart Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/jana-moudr"
-    },{
-        "name": "Dia 15",
-        "description": "Google Developers Group Prague",
-        "link": "https://developers.google.com/groups/chapter/111919016509847766513/"
-    }],
+    "bio": "Cristiano Machado é o idealizador, Co-Fundador e Presidente da AbraBoca - Associação Brasileira de Marketing Boca a Boca, palestrante e consultor de empresas, especialista em marketing, empreendedorismo e Inovação. Possui artigos científicos publicados no Brasil, Canadá e Estados Unidos. É administrador, possui MBA pela Baldwin-Wallace University dos EUA, MBA em Administração e Marketing pela FACINTER e MBA Executivo In Management pela FAE Business School. É também o criador do blog www.marketingempreendedor.com.br que mostra como empreendedores fazem marketing. Nas horas vagas tenta ser guitarrista!",
+    "tags": ["Marketing", "Talk"],
     "socials": [{
         "name": "Google+",
-        "link": "https://plus.google.com/+JanaMoudrá"
+        "link": "https://plus.google.com/+CristianoMachado"
     }, {
-        "name": "LinkedIn",
-        "link": "https://cz.linkedin.com/in/janamoudra"
-    }, {
-        "name": "Twitter",
-        "link": "https://twitter.com/Janamou"
-    }, {
-        "name": "Blog",
-        "link": "http://www.moudra.net/"
+        "name": "Facebook",
+        "link": "https://www.facebook.com/cristianotmachado?fref=ts"
     }]
 }, {
     "id": 15,
-    "name": "Jakub Škvára",
-    "title": "Frontend engineer",
-    "company": "Shipito",
-    "country": "Czech Republic",
+    "name": "Bernardo Brandão",
+    "title": "Diretor",
+    "company": "Cisterlabs",
+    "country": "Fco. Beltrão",
     "photoUrl": "../../images/people/bernardo.jpg",
-    "bio": "Jakub is a member of Dia 15 Prague and Dia 15 ČVUT in Czech republic. He organised together with Jana Moudrá several Polymer and Dart code labs and a hackaton. He works as a frontend engineer for Shipito. Jakub is interested in modern Javascript frameworks, libraries and tools and loves clean code.",
-    "tags": ["Web", "Polymer"],
-    "badges": [{
-        "name": "Dia 15",
-        "description": "Google Developers Group Prague",
-        "link": "https://developers.google.com/groups/chapter/111919016509847766513/"
-    }],
+    "bio": "Tem experiência de mais de 12 anos em tecnologias, dentre eles 10 anos no desenvolvimento de software atuando em fábricas de software.Trabalhou no Centro Internacional de Tecnologia de Software - CITS, em Curitiba, onde ocupei as posições de programador, arquiteto de sistemas, e gerente de projetos.Atuou como Gerente Geral da Fábrica de Software da ITAIPU Binacional em Foz do Iguaçu por 2 anos.Trabalhou em São Paulo na empresa BRA gerenciando projetos na área de controles de vôo.A 4 anos fundei a Cisterlabs, empresa especializada no desenvolvimento de soluções sob demanda, no modelo de fábrica de software, onde desenvolvemos soluções em Java para palmtops, soluções Web e sistemas para controle utilizando o conceito de Gestão de Processos de Negócio - BPM. Atuou como Gerente do Sistemas Regional de Inovação do Sudoeste do Paraná e também como coordenador da Incubadora de Empreendimentos Inovadores e Tecnológicos de Francisco Beltrão.",
+    "tags": ["Gestão"],
+
     "socials": [{
-        "name": "Google+",
-        "link": "https://plus.google.com/u/0/+JakubSkvara"
+        "name": "Facebook",
+        "link": "https://www.facebook.com/brandaobc2010?fref=pb&hc_location=friends_tab&pnref=friends.mutual"
     }, {
-        "name": "Twitter",
-        "link": "https://twitter.com/skvaros"
+        "name": "Website",
+        "link": "http://www.cisterlabs.com.br/"
     }]
+},
+
+{
+    "id": 16,
+    "name": "Sérgio Alexsandro Miecoanski",
+    "title": "Diretor",
+    "company": "Cisterlabs",
+    "country": "Fco. Beltrão",
+    "photoUrl": "../../images/people/placeholder.png",
+    "bio": "",
+    "tags": ["Automação"]
 }
 ]
